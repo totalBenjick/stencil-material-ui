@@ -24,7 +24,7 @@ export const FIELDS = {
       name: 'first_surname',
       ariaLabel: 'Primer Apellido',
       type: 'text',
-      label: 'Apellidos',
+      label: 'Primer Apellido',
       id: 'first_surname',
       minlength: '2',
       regex: /^[a-zA-Z ]+$/,
